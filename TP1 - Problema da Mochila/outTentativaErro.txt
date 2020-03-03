@@ -1,0 +1,5 @@
+Item	 Peso	 Valor
+ 7	  12	  29	
+ 9	  5	  105	
+Peso total: 17
+Valor total: 134

@@ -1,0 +1,120 @@
+Item 169, peso 13, valor 200
+
+Item 267, peso 5, valor 200
+
+Item 387, peso 13, valor 200
+
+Item 189, peso 14, valor 199
+
+Item 343, peso 12, valor 199
+
+Item 65, peso 10, valor 198
+
+Item 357, peso 10, valor 198
+
+Item 23, peso 11, valor 197
+
+Item 62, peso 9, valor 197
+
+Item 253, peso 7, valor 197
+
+Item 258, peso 12, valor 197
+
+Item 334, peso 12, valor 197
+
+Item 479, peso 6, valor 197
+
+Item 84, peso 5, valor 196
+
+Item 146, peso 8, valor 196
+
+Item 315, peso 6, valor 196
+
+Item 345, peso 12, valor 196
+
+Item 402, peso 9, valor 196
+
+Item 22, peso 4, valor 195
+
+Item 281, peso 5, valor 195
+
+Item 327, peso 4, valor 195
+
+Item 380, peso 8, valor 195
+
+Item 122, peso 13, valor 194
+
+Item 438, peso 9, valor 194
+
+Item 332, peso 4, valor 193
+
+Item 271, peso 9, valor 192
+
+Item 310, peso 11, valor 192
+
+Item 500, peso 11, valor 192
+
+Item 299, peso 4, valor 191
+
+Item 472, peso 2, valor 191
+
+Item 246, peso 10, valor 190
+
+Item 485, peso 11, valor 190
+
+Item 7, peso 13, valor 189
+
+Item 8, peso 13, valor 189
+
+Item 216, peso 3, valor 189
+
+Item 491, peso 7, valor 189
+
+Item 1, peso 6, valor 188
+
+Item 325, peso 2, valor 188
+
+Item 355, peso 12, valor 188
+
+Item 370, peso 10, valor 188
+
+Item 415, peso 2, valor 188
+
+Item 443, peso 12, valor 188
+
+Item 4, peso 10, valor 187
+
+Item 78, peso 13, valor 187
+
+Item 290, peso 11, valor 187
+
+Item 295, peso 8, valor 187
+
+Item 349, peso 13, valor 187
+
+Item 14, peso 12, valor 186
+
+Item 183, peso 9, valor 186
+
+Item 143, peso 2, valor 185
+
+Item 177, peso 12, valor 185
+
+Item 294, peso 9, valor 185
+
+Item 194, peso 4, valor 184
+
+Item 252, peso 7, valor 184
+
+Item 280, peso 3, valor 184
+
+Item 159, peso 2, valor 183
+
+Item 434, peso 5, valor 183
+
+Item 26, peso 11, valor 182
+
+Item 145, peso 2, valor 182
+
+Soma dos pesos: 492
+Soma dos valores: 11283

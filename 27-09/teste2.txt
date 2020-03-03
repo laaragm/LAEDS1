@@ -1,0 +1,12 @@
+10
+bh curitiba 18
+bh rj 119
+bh sp 152
+bh diamantina 133
+curitiba rj 12
+curitiba sp 150
+curitiba diamantina 200
+rj sp 17
+rj diamantina 120
+sp diamantina 199
+bh sp
